@@ -1,0 +1,169 @@
+body {
+	margin: 0;
+	background: url('images/background.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	
+}
+
+.main-content;{
+	display:block;
+	width:100%;
+	height:auto;
+}
+
+.upper-row {
+	overflow: hidden;
+	margin-bottom: 100px;
+}
+
+.upper-row .left-column {
+	width: 20%;
+	border-radius: 10px;
+	background-color: purple;
+	color: white;
+	float: left;
+	margin: 10px;
+	margin-left: 50px;
+	padding: 10px;
+	background: rgba(160,32,240, .4);
+}
+
+.first-image {
+	width: 100%;
+}
+
+.upper-row .middle-column {
+	width: 35%;
+	background-color: aqua;
+	color: white;
+	overflow: hidden;
+	float: left;
+	margin: 10px;
+	margin-left: 40px;
+	margin-right: 40px;
+	border-radius: 5px;
+	padding: 5px;
+	background: rgba(5,195,221,.2);
+}
+
+.upper-row .middle-column h1 {
+	text-align: center;
+	color: red;
+	background-color: yellow;
+	margin-left: 20px;
+	margin-right: 20px;
+	border-radius: 20px;
+	background: rgba(234, 221, 202, .5);
+}
+
+.upper-row .middle-column .para {
+	float: right;
+}
+
+.upper-row .right-column {
+	width: 30%;
+	border-radius: 10px;
+	background-color: skyblue;
+	color: white;
+	overflow: hidden;
+	margin-top: 20px;
+	margin-left: 30px;
+	padding: 5px;
+	background: rgba(0,181,226,.2);
+}
+
+.upper-row .right-column .image3 {
+	float: right;
+	padding: 5px;
+}
+
+.upper-row .right-column .norway {
+	text-align: center;
+}
+
+.lower-row .left-column .box1 {
+	
+	width: 250px;
+	float: left;
+	color: white;
+	margin: 30px;
+	background: rgba(0,255,0,.3);
+	padding: 10px;
+}
+
+.lower-row .left-column .box2 {
+	width: 300px;
+	float: left;
+	color: white;
+	overflow: hidden;
+	float: left;
+	margin-left: 20px;
+	background: rgba(255,0,0,.2);
+}
+
+.lower-row .left-column .box3 {
+	background-color: yellow;
+	width: 300px;
+	float: left;
+	color: red;
+	overflow: hidden;
+	padding: 5px;
+	margin: 10px;
+	background: rgba(234, 221, 202, .3);
+}
+
+.parabox3 {
+	float: left;
+	overflow: hidden;
+	margin: 5px;
+}
+
+.lower-row h1{
+	text-align: center;
+}
+
+
+
+
+
+.lower-row .left-column {
+	width: 70%;
+	overflow: hidden;
+	float: left;
+}
+
+.lower-row .right-column {
+	width: 20%;
+	background-color: blue;
+	overflow: hidden;
+	padding: 10px;
+	color: white;
+	background: rgba(0,0,255,.5);
+	
+}
+
+.lower-row {
+	overflow: hidden;
+}
+
+.footer {
+	text-align: justify;
+	padding: 10px;
+	
+}
+
+.footer .footer-h1 {
+	text-align: center;
+	background-color: #FFFfff;
+	color: blue;
+	box-sizing: border-box;
+	border-radius: 30px;
+	padding: 10px;
+	margin-left: 500px;
+	margin-right: 500px;
+	letter-spacing: 3px;
+	background: rgba(255,255,255, .3);
+	
+}
